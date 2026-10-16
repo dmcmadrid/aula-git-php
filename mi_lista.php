@@ -5,3 +5,5 @@ echo $titulo . PHP_EOL;
 foreach ($tareas as $tarea) {
     echo "- " . $tarea . PHP_EOL;
 }
+
+echo "Total: ". count($tareas).PHP_EOL;
