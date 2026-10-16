@@ -1,5 +1,5 @@
 <?php
-$titulo = "Mi lista de estudio";
+$titulo = "TITULO EQUIVOCADO";
 $tareas = ["Repasar PHP", "Practicar Git"];
 echo $titulo . PHP_EOL;
 foreach ($tareas as $tarea) {
