@@ -7,3 +7,5 @@ foreach ($tareas as $tarea) {
 }
 
 echo "Total: ". count($tareas).PHP_EOL;
+
+$tareas = ["Repasar PHP", "Practicar Git", "Leer el historial"];
